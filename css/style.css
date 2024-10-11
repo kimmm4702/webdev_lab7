@@ -2,18 +2,22 @@
 td, th {
 	border: 1px solid;
   }
-  
+
 body{
 	font-family: 'Pacifico', cursive;
 	text-align: center;
 }
 
 h1{
+	background-color: blue;
 	font-size:30px;
+	border:dashed;
+	width:35%;
 	color: #4169e1;
 }
 #planets {
 	width: 80%;
 
 }
+
 
