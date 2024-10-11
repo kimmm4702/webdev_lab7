@@ -20,5 +20,5 @@ h1{
 }
 
 .mercury, .saturn, .mars, .pluto{
-	background-color: gray;
+	border: 4px solid gray;
 }
