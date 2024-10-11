@@ -3,8 +3,9 @@ td, th {
   }
 
 #body h1{
-	font-family: 'Audiowide', cursive;
-	font-size: 50px;
+	font-family: "Pacifico", cursive;
+	font-weight: 400;
+  	font-style: normal;
 	color: red;
 }
 
