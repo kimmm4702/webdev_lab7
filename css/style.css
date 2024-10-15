@@ -9,6 +9,12 @@ body{
 	text-align: center;
 	background-color: #e0fbf9;
 }
+#header{
+	position: relative;
+	margin: 40px;
+	border-radius: 12px 12px 0px 0px;
+	font-weight: bold;
+}
 h1{
 	background-color: lightblue;
 	font-size:30px;
@@ -31,7 +37,4 @@ td{
 }
 .mercury, .saturn, .mars, .jupiter{
 	border: 6px solid gray;
-}
-.header{
-	font-weight: bold;
 }
