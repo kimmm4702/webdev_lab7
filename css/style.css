@@ -2,19 +2,16 @@
 td, th {
 	border: 1px solid;
 	padding: 20px;
-  }
-
+ }
 body{
 	font-family: "Crimson Text", serif;
 	text-align: center;
-	
+	background-color: #e0fbf9;
 }
-
 h1{
 	background-color: lightblue;
 	font-size:30px;
 	color: #000000;
-
 }
 table{
 	width: 80%;
@@ -30,9 +27,7 @@ td{
 #planets {
 	width: 80%;
 	margin: 0;
-
 }
-
 .mercury, .saturn, .mars, .jupiter{
 	border: 6px solid gray;
 }
