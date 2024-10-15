@@ -1,3 +1,13 @@
+td, th {
+	border: 2px solid #000000;
+	padding: 20px;
+	text-align: center;
+ }
+ #header{
+	margin: 20px;
+	border-radius: 5px 5px 0px 0px;
+	font-weight: bold;
+}
 body{
 	font-family: "Crimson Text", serif;
 	text-align: center;
@@ -19,11 +29,7 @@ table{
 	background-color: #e2decc;
 }
 
-td, th {
-	border: 2px solid #000000;
-	padding: 20px;
-	text-align: center;
- }
+
 th{
 	background-color: #f3e0fb;
 	font-size: 24px;
@@ -35,12 +41,7 @@ td{
 	width: 80%;
 	margin: 0;
 }
-#header{
-	position: relative;
-	margin: 20px;
-	border-radius: 5px 5px 0px 0px;
-	font-weight: bold;
-}
+
 .mercury, .saturn, .mars, .jupiter{
 	border: 6px solid gray;
 }
