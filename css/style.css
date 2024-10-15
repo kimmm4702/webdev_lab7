@@ -1,6 +1,6 @@
 
 td, th {
-	border: 2px solid #ccc;
+	border: 2px solid #000000;
 	padding: 20px;
  }
 body{
@@ -24,7 +24,7 @@ th{
 td{
 	padding:25px;
 	text-align: center;
-	border: 1px solid #ccc;
+	border: 1px solid #000000;
 }
 #planets {
 	width: 80%;
