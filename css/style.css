@@ -11,11 +11,12 @@ body{
 }
 #header{
 	position: relative;
-	margin: 40px;
+	margin: 20px;
 	border-radius: 5px 5px 0px 0px;
 	font-weight: bold;
 }
 h1{
+	position: absolute;
 	background-color: lightblue;
 	font-size:30px;
 	color: #000000;
