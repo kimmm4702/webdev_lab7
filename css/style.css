@@ -2,6 +2,7 @@
 td, th {
 	border: 2px solid #000000;
 	padding: 20px;
+	text-align: center;
  }
 body{
 	font-family: "Crimson Text", serif;
@@ -22,9 +23,7 @@ th{
 	font-size: 20px;
 }
 td{
-	padding:25px;
-	text-align: center;
-	border: 1px solid #000000;
+	padding:45px;
 }
 #planets {
 	width: 80%;
