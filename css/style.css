@@ -18,19 +18,23 @@ body{
 h1{
 	position: absolute;
 	background-color: lightblue;
-	font-size:25px;
+	font-size:30px;
 	color: #000000;
+	margin: 0;
+	padding: 10px;
 }
 table{
 	width: 80%;
+	margin: 20px auto;
 	background-color: #e2decc;
 }
 th{
 	background-color: #f3e0fb;
-	font-size: 20px;
+	font-size: 24px;
 }
 td{
 	padding:45px;
+	font-size: 18px;
 }
 #planets {
 	width: 80%;
