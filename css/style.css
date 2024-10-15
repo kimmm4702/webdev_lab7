@@ -1,19 +1,9 @@
-
-td, th {
-	border: 2px solid #000000;
-	padding: 20px;
-	text-align: center;
- }
 body{
 	font-family: "Crimson Text", serif;
 	text-align: center;
 	background-color: #e0fbf9;
-}
-#header{
-	position: relative;
-	margin: 20px;
-	border-radius: 5px 5px 0px 0px;
-	font-weight: bold;
+	margin: 0;
+	padding: 20px;
 }
 h1{
 	position: absolute;
@@ -28,17 +18,28 @@ table{
 	margin: 20px auto;
 	background-color: #e2decc;
 }
+
+td, th {
+	border: 2px solid #000000;
+	padding: 20px;
+	text-align: center;
+ }
 th{
 	background-color: #f3e0fb;
 	font-size: 24px;
 }
 td{
-	padding:45px;
 	font-size: 18px;
 }
 #planets {
 	width: 80%;
 	margin: 0;
+}
+#header{
+	position: relative;
+	margin: 20px;
+	border-radius: 5px 5px 0px 0px;
+	font-weight: bold;
 }
 .mercury, .saturn, .mars, .jupiter{
 	border: 6px solid gray;
