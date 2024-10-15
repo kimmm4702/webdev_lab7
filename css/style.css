@@ -4,12 +4,12 @@ td, th {
   }
 
 body{
-	font-family: 'Pacifico', cursive;
+	font-family: "Crimson Text", serif;
 	text-align: center;
 }
 
 h1{
-	background-color: blue;
+	background-color: lightblue;
 	font-size:30px;
 	color: #000000;
 
