@@ -1,6 +1,8 @@
 
 td, th {
 	border: 1px solid;
+	padding: 20px;
+	color: #e0fbf9;
   }
 
 body{
@@ -17,8 +19,12 @@ h1{
 table{
 	width: 80%;
 }
+th{
+	background-color: #f3e0fb;
+	font-size: ;
+}
 td{
-	padding:15px;
+	padding:25px;
 	text-align: center;
 }
 #planets {
@@ -28,5 +34,5 @@ td{
 }
 
 .mercury, .saturn, .mars, .jupiter{
-	border: 4px solid gray;
+	border: 6px solid gray;
 }
