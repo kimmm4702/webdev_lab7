@@ -14,12 +14,20 @@ h1{
 	color: #000000;
 
 }
+table{
+	width: 80%;
+}
+td{
+	border: 1px;
+	padding:15px;
+	text-align: center;
+}
 #planets {
 	width: 80%;
 	margin: 0;
 
 }
 
-.mercury, .saturn, .mars, .pluto{
+.mercury, .saturn, .mars, .jupiter{
 	border: 4px solid gray;
 }
