@@ -17,7 +17,15 @@ table{
 	width: 80%;
 	background-color: #e2decc;
 }
-
+th{
+	background-color: #f3e0fb;
+	font-size: 20px;
+}
+td{
+	padding:25px;
+	text-align: center;
+	border: 1px solid #000000;
+}
 #planets {
 	width: 80%;
 	margin: 0;
